@@ -1,5 +1,5 @@
 # SnakeGame
-##설치 방법
+## 설치 방법
 https://github.com/1004jaein/SnakeGame로 이동해 파일을 다운받는다.
 
 터미널창을 열어 
@@ -8,7 +8,7 @@ g++ src/GameScene.cpp src/GameOverScene.cpp src/Snake.cpp src/Stage.cpp src/myFu
 '''
 을 입력한다.
 
-##<게임진행 방법>
+## <게임진행 방법>
 1)	G(growth item)에 o(snake head)가 닿으면 growth item 1개가 반영되어 snake의 길이가 1 증가한다.
 2)	P(poison item)에 o(snake head)가 닿으면 poison item 1개가 반영되어 snake의 길이가 1 감소한다.
 3)	벽에 닿으면 game-over가 된다.
