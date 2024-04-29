@@ -19,8 +19,8 @@ g++ src/GameScene.cpp src/GameOverScene.cpp src/Snake.cpp src/Stage.cpp src/myFu
 ![image](https://github.com/1004jaein/SnakeGame/assets/105484114/3c307c8a-30f1-4341-b9b8-0ec9e79ae5ad)
 
 <stage2>
- ![image](https://github.com/1004jaein/SnakeGame/assets/105484114/918893ee-f860-4d42-908e-e05014ab67a9)
+![image](https://github.com/1004jaein/SnakeGame/assets/105484114/918893ee-f860-4d42-908e-e05014ab67a9)
 
- <stage3>
-![image](https://github.com/1004jaein/SnakeGame/assets/105484114/4b330a1c-58dc-4dd0-8cc9-767e84f38f41)
+<stage3>
+ ![image](https://github.com/1004jaein/SnakeGame/assets/105484114/4b330a1c-58dc-4dd0-8cc9-767e84f38f41)
 
