@@ -15,14 +15,12 @@ g++ src/GameScene.cpp src/GameOverScene.cpp src/Snake.cpp src/Stage.cpp src/myFu
 4)	@(Snake-body)가 2이하가 되면 game-over가 된다.
 5)	Game over의 경우 y를 누르면 재시작 할 수 있다.
 
-![image](https://github.com/1004jaein/SnakeGame/assets/105484114/ad0fe62f-16d4-4aea-b3f5-3127130c9393)
 <stage 1>
- ![image](https://github.com/1004jaein/SnakeGame/assets/105484114/33168480-9dcb-4849-ae13-33eebda497d9)
+![image](https://github.com/1004jaein/SnakeGame/assets/105484114/3c307c8a-30f1-4341-b9b8-0ec9e79ae5ad)
 
 <stage2>
-![image](https://github.com/1004jaein/SnakeGame/assets/105484114/60a7edbb-d075-4674-959e-35c3c327d3fb)
-  
-<stage3>
-![image](https://github.com/1004jaein/SnakeGame/assets/105484114/181d4927-35d0-4fd1-8f5b-72470f60cdf5)
+ ![image](https://github.com/1004jaein/SnakeGame/assets/105484114/918893ee-f860-4d42-908e-e05014ab67a9)
 
- 
+ <stage3>
+![image](https://github.com/1004jaein/SnakeGame/assets/105484114/4b330a1c-58dc-4dd0-8cc9-767e84f38f41)
+
